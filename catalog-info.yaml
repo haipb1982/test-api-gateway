@@ -4,7 +4,8 @@ metadata:
   name: test-api-gateway
   annotations:
     github.com/project-slug: haipb1982/test-api-gateway
+    backstage.io/code-coverage: enabled
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: production
   owner: backstage

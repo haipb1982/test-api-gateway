@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-api-gateway
+  annotations:
+    github.com/project-slug: haipb1982/test-api-gateway
+spec:
+  type: other
+  lifecycle: unknown
+  owner: backstage

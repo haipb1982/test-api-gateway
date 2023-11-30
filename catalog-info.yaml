@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: test-api-gateway
+  description: Test catalog
   annotations:
     github.com/project-slug: haipb1982/test-api-gateway
     backstage.io/code-coverage: enabled
